@@ -31,7 +31,7 @@ gradlePluginVersion 7.0.2
 
 This project is based on the original work by **[Subham Panchal]** under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0). The original project can be found [here](https://github.com/shubham0204/Realtime_MiDaS_Depth_Estimation_Android).
 
-##License
+## License
 
 ```
 Copyright 2024 Bilal Azdad
