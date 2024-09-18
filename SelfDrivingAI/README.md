@@ -12,7 +12,7 @@ As this app is designed
 
 ```
 compileSdk 30
-applicationId "com.shubham0204.ml.depthestimation"
+applicationId "com.bilalazdad.ml.SelfDrivingAI"
 minSdk 23
 targetSdk 30
 androidGradlePluginVersion 7.0.0
