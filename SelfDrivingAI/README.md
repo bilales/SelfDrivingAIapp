@@ -1,5 +1,7 @@
 # Depth Estimation and Object Detection App for SelfDriving purposes
 
+<video src="markodown_selfdrivingAI.mp4"  controls></video>
+
 This project is an Android application for depth estimation and object detection using TensorFlow Lite models. The app displays bounding boxes around detected objects and provides estimated depth for each object.
 As this app is designed 
 
